@@ -1,0 +1,6 @@
+{
+  "_comment": "Optional. Copy the env block into .claude/settings.json (or settings.local.json) to enable experimental agent teams. Agent teams cost more tokens and may launch subagents as teammates even when you did not ask. Keep the value at 0 for manual, one-agent-at-a-time work.",
+  "env": {
+    "CLAUDE_CODE_EXPERIMENTAL_AGENT_TEAMS": "1"
+  }
+}
